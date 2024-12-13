@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
 	"index-to-position": "0.1.2",
+	
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
