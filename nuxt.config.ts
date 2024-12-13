@@ -1,7 +1,6 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   app: {
-    baseURL: '/task-board/', // Назва вашого репозиторію
+    baseURL: '/task-board/',
   },
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
