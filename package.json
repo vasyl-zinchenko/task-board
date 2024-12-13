@@ -2,6 +2,7 @@
   "name": "nuxt-app",
   "private": true,
   "type": "module",
+	"index-to-position": "0.1.2",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -16,7 +17,6 @@
     "nuxt": "^3.14.1592",
     "nuxt-storage": "^1.2.2",
     "pinia": "^2.3.0",
-    "uuidv4": "^6.2.13",
     "vue": "latest",
     "vue-router": "latest",
     "vue-uuid": "^3.0.0"
